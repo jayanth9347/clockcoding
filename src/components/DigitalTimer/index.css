@@ -1,0 +1,36 @@
+.background {
+  background-color: skyblue;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  color: black;
+  padding: 15px;
+}
+
+.button{
+  background-color: transparent;
+}
+
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.maincontainer {
+  display: flex;
+}
+
+.play {
+  height: 50px;
+  width: 50px;
+}
+.pause {
+  height: 50px;
+  width: 50px;
+}
